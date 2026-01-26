@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Discussions
+    url: https://github.com/Jester1292/CodeMonsters-Releases/discussions
+    about: Please ask and answer questions here for general discussion about Code Monsters
+  - name: Search Existing Issues
+    url: https://github.com/Jester1292/CodeMonsters-Releases/issues
+    about: Check if your issue has already been reported before creating a new one
