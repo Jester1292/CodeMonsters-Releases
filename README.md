@@ -25,6 +25,7 @@ To install Code Monsters on your Android device, you'll need to allow installati
 While our developers work hard to maintain user data (inventory/monsters), please be aware that:
 - Game changes during the beta phase may cause loss of monsters or inventory items
 - Data persistence is not guaranteed until the game is out of beta
-- We recommend backing up any important progress when possible
+
+If there are any issues
 
 Thank you for your patience and support as we continue to develop Code Monsters!
