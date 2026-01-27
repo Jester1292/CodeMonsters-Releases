@@ -26,6 +26,10 @@ While our developers work hard to maintain user data (inventory/monsters), pleas
 - Game changes during the beta phase may cause loss of monsters or inventory items
 - Data persistence is not guaranteed until the game is out of beta
 
-If there are any issues
+If there are any issues use the issues tab and report it under one of the categories!
+ - Bug Report button
+ - Feature Request button
+ - Question / Support button
+ - Links to GitHub Discussions and Search Existing Issues
 
 Thank you for your patience and support as we continue to develop Code Monsters!
