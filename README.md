@@ -1,6 +1,9 @@
 # CodeMonsters-Releases
 Public release repo for Code Monsters
 
+updates and Bug fixes will release on Wednesdays
+
+
 ## Installation Instructions
 
 To install Code Monsters on your Android device, you'll need to allow installation from unknown sources:
